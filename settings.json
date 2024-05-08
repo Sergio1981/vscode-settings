@@ -1,0 +1,113 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "material-icon-theme.folders.theme": "classic",
+    "material-icon-theme.folders.color": "#fdd835",
+    "editor.minimap.autohide": true,
+    "oneDarkPro.italic": true,
+    "emojisense.languages": {
+        "markdown": true,
+        "plaintext": {
+            "markupCompletionsEnabled": false,
+            "emojiDecoratorsEnabled": false
+        },
+        "scminput": true,
+        "git-commit": true
+    },
+    "dart.flutterSdkPath": "/Users/sergiocosta/Develop/flutter",
+    "workbench.colorCustomizations": {
+        "[Material Theme]": {},
+        "[Xcode Classic (Dark)]": {
+            "list.activeSelectionBackground": "#FFA00040",
+            "activityBarBadge.background": "#FFA000",
+            "activityBarBadge.foreground": "#303230",
+            "activityBar.activeBorder": "#FFA000",
+            "list.activeSelectionForeground": "#FFA000",
+            "list.inactiveSelectionForeground": "#FFA000",
+            "list.highlightForeground": "#FFA000",
+            "scrollbarSlider.activeBackground": "#FFA00050",
+            "editorSuggestWidget.highlightForeground": "#FFA000",
+            "textLink.foreground": "#FFA000",
+            "progressBar.background": "#FFA000",
+            "pickerGroup.foreground": "#FFA000",
+            "tab.activeBorder": "#FFA000",
+            "notificationLink.foreground": "#FFA000",
+            "editorWidget.resizeBorder": "#FFA000",
+            "editorWidget.border": "#FFA000",
+            "settings.modifiedItemIndicator": "#FFA000",
+            "settings.headerForeground": "#FFA000",
+            "panelTitle.activeBorder": "#FFA000",
+            "breadcrumb.activeSelectionForeground": "#FFA000",
+            "menu.selectionForeground": "#FFA000",
+            "menubar.selectionForeground": "#FFA000",
+            "editor.findMatchBorder": "#FFA000",
+            "selection.background": "#FFA00040",
+            "statusBar.background": "#FFA000",
+            "statusBar.foreground": "#303230",
+            "statusBar.noFolderBackground": "#FFA000",
+            "statusBar.noFolderForeground": "#303230",
+            "statusBar.debuggingForeground": "#ffffff",
+            "statusBar.debuggingBackground": "#5900ff"
+        }
+    },
+    "materialTheme.accent": "Yellow",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.enableSmartCommit": true,
+    "application.shellEnvironmentResolutionTimeout": 20,
+    "git.autofetch": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "dart.openDevTools": "flutter",
+    "cmake.configureOnOpen": true,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.activityBar.location": "top",
+    "workbench.iconTheme": "sweet-vscode-icons",
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.colorTheme": "Xcode Classic (Dark)",
+    "editor.guides.bracketPairs": "active",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.codeActionsOnSave": {},
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "editor.language.brackets": [],
+    "react-native-tools.showUserTips": false,
+    "editor.semanticTokenColorCustomizations": {},
+    "editor.indentSize": "tabSize",
+    "workbench.settings.applyToAllProfiles": [],
+    "notebook.editorOptionsCustomizations": {},
+    "files.associations": {
+        "*.dart": "dart"
+    },
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "editor.language.colorizedBracketPairs": [
+    
+    ]
+}
